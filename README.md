@@ -4,6 +4,10 @@
 
 See `index.coffee` and `example`
 
+## Install
+
+`npm install handbrake`
+
 ## Methods
 
 * `setPath(string path)`: set handbrake path
