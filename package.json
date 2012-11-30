@@ -1,0 +1,24 @@
+{
+  "name": "handbrake",
+  "version": "0.0.1",
+  "description": "HandBrakeCLI wrapper script",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geta6/node-handbrake"
+  },
+  "dependencies": {
+    "consolable": "*"
+  },
+  "keywords": [
+    "handbrake"
+  ],
+  "author": "geta6",
+  "license": "BSD"
+}
